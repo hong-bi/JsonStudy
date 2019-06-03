@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-2022-KR">
+<title>JsonTest11.html</title>
+<script type="text/javascript">
+
+	var obj=
+	{
+		"test" :
+		[
+			"ccc" , "ddd"
+		],
+		"exam" :
+		[
+			"kkk","ppp"
+		]
+			
+	}
+
+</script>
+
+
+</head>
+<body>
+
+</body>
+</html>

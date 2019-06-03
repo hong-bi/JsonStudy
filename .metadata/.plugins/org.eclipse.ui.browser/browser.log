@@ -1,0 +1,31 @@
+
+5월 31, 2019 14:43:56.88 NEW SESSION
+5월 31, 2019 14:43:56.88 [968:3848:0531/144356.882:ERROR:browser_process_sub_thread.cc(217)] Waited 96 ms for network service
+5월 31, 2019 15:23:26.09 [2100:11332:0531/152326.098:ERROR:browser_process_sub_thread.cc(217)] Waited 12 ms for network service
+5월 31, 2019 15:38:38.56 [5440:7140:0531/153838.565:ERROR:browser_process_sub_thread.cc(217)] Waited 621 ms for network service
+5월 31, 2019 15:48:46.64 [12340:7412:0531/154846.646:ERROR:browser_process_sub_thread.cc(217)] Waited 595 ms for network service
+5월 31, 2019 15:50:44.29 [7376:3836:0531/155044.290:ERROR:browser_process_sub_thread.cc(217)] Waited 245 ms for network service
+
+6월 03, 2019 09:20:03.84 NEW SESSION
+6월 03, 2019 09:20:03.84 [11660:7180:0603/092003.848:ERROR:browser_process_sub_thread.cc(217)] Waited 18 ms for network service
+6월 03, 2019 11:36:52.79 [12572:4232:0603/113652.793:ERROR:browser_process_sub_thread.cc(217)] Waited 85 ms for network service
+6월 03, 2019 14:35:44.28 [3536:9716:0603/143544.288:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:35:57.47 [3536:9716:0603/143557.475:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:36:54.00 [3536:9716:0603/143654.002:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:36:59.84 [3536:9716:0603/143659.843:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:37:58.97 [3536:9716:0603/143758.973:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:39:12.21 [3536:9716:0603/143912.212:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:39:18.22 [3536:9716:0603/143918.221:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:40:33.64 [3536:9716:0603/144033.645:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:40:42.24 [3536:9716:0603/144042.240:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:41:10.45 [3536:9716:0603/144110.450:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:41:51.09 [3536:9716:0603/144151.094:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:43:00.11 [3536:9716:0603/144300.117:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:43:29.55 [3536:9716:0603/144329.556:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:43:56.29 [3536:9716:0603/144356.289:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:46:14.46 [3536:9716:0603/144614.466:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:46:51.97 [3536:9716:0603/144651.971:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:47:27.56 [3536:9716:0603/144727.568:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:49:35.04 [3536:9716:0603/144935.040:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 14:49:42.92 [3536:9716:0603/144942.920:ERROR:audio_manager_base.cc(363)] Invalid audio output parameters received; using fake audio path: format: 0, channel_layout: 0, channels: 0, sample_rate: 0, frames_per_buffer: 0, effects: 0, mic_positions: 
+6월 03, 2019 15:07:50.55 [3536:5356:0603/150750.551:ERROR:platform_sensor_reader_win.cc(244)] NOT IMPLEMENTED

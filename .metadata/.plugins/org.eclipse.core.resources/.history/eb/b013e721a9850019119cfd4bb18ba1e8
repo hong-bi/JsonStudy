@@ -1,0 +1,12 @@
+<%@page import="org.json.JSONArray"%>
+<%@page import="org.json.JSONObject"%>
+<%@ page contentType="text/html; charset=UTF-8"%>
+<%
+	request.setCharacterEncoding("UTF-8");
+%>
+<%
+	//Test04_ok.jsp
+	
+
+
+%>

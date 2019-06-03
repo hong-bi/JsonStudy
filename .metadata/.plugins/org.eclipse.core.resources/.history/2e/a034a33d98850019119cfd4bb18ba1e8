@@ -1,0 +1,37 @@
+<%@ page contentType="text/html; charset=UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Test01.jsp</title>
+</head>
+<body>
+
+<div>
+	<table>
+		<tr>
+			<th>이름 : </th>
+			<td>
+				<input type="text" id="name" maxlength="20" style="width: 100px;">
+			</td>
+		</tr>
+		<tr>
+			<th>나이 : </th>
+			<td>
+				<input type="text" id="age" maxlength="10" style="width: 100px;">
+			</td>
+		</tr>
+		<tr>
+			<td colspan="2" align="center">
+				<input type="button" value="결과" style="width: 100px;">
+			</td>
+		</tr>
+	</table>
+	
+	<br><br>
+	
+	<div id="results" style="display: none;"></div>
+</div>
+
+</body>
+</html>

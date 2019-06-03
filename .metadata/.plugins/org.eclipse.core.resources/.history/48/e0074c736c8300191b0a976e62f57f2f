@@ -1,0 +1,18 @@
+<meta charset="UTF-8">
+<script type="text/javascript">
+
+	var obj1 = 
+	{
+		"test" : "abc"
+	}
+
+</script>
+
+<form>
+	<input type="button" value="click" onclick="alert(obj1)"> 
+	<input type="button" value="click" onclick="alert(typeof obj1)"> 
+	
+	<input type="button" value="click" onclick="alert(obj.test)"> 
+	<input type="button" value="click" onclick="alert(typeof obj.test)"> 
+
+</form>

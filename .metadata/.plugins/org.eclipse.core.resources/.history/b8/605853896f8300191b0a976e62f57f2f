@@ -1,0 +1,30 @@
+<meta charset="UTF-8">
+<script type="text/javascript">
+	
+	var obj6 = 
+	[
+		"test"
+	]
+	
+	var obj6_1 = 
+	[
+		"test","test2"
+	]
+	
+	var obj6_2 = 
+	[
+		"test","test2",123, 123+1
+	]
+
+
+</script>
+
+<form>
+
+	<input type="button" value="click1" onclick="alert(obj6)">
+	<input type="button" value="click2" onclick="alert(obj6_1)">
+	<input type="button" value="click3" onclick="alert(obj6_2)">
+	
+	<br><br>
+
+</form>
